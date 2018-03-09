@@ -2,7 +2,7 @@
 /**
 *
 * @package phpBB Arcade - Board3 portal arcade modules
-* @version $Id$
+* @version $Id: modules.php 1861 2018-02-21 15:26:11Z killbill $
 * @author 2011-2018 KillBill - killbill@jatek-vilag.com
 * @copyright (c) 2014-2018 https://jv-arcade.com/ - support@jv-arcade.com
 * Nederlandse vertaling @ Solidjeuh <https://www.muziekpromo.net>
